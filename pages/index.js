@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
 
-        <h1>Ender's Game themed hacker house</h1>
+        <h1>Ender&apos;s Game themed hacker house</h1>
         <h2>A house filled with AI enthusiasts</h2>
         <div className={styles.center}>
           <Image
