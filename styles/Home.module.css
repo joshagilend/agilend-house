@@ -1,7 +1,6 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
@@ -215,7 +214,7 @@
   }
 
   .logo {
-    filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
+    fil`ter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
   }
 }
 
@@ -226,4 +225,19 @@
   to {
     transform: rotate(0deg);
   }
+}
+
+.main h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.main h2 {
+  font-family: 'Roboto', sans-serif;  
+  text-align: center;;
+}
+
+.main p {
+  font-family: 'Roboto', sans-serif;  
+  text-align: center;;
 }
