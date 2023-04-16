@@ -17,10 +17,10 @@ export default function JobPosts() {
             <li>* PR sucks. We will never earn it, either micro or macro.</li>
             <li>* Events suck. Too much time and they never lead to the right people, post Pandemic.</li>
         </ul>
-        <p>What's the answer? The answer is <strong>lead gen through content marketing</strong> aka SEO.</p>
+        <p>What&apos;s the answer? The answer is <strong>lead gen through content marketing</strong> aka SEO.</p>
         <p>Ah, the dreaded SEO... the thing that strikes fear into the heart of marketers across the tech world. How do you rank on Google? Do you use evil voodoo tricks and black magic?</p>
-        <p>Alas, it's not an evil formula... it's just effort, and doing the right moves over a long period of time. There <em>is</em> a shorter way. Here it is:</p>
-        <p>Guest posts... all we need is guest posts for marketing. Here's the trick: </p>
+        <p>Alas, it&apos;s not an evil formula... it&apos;s just effort, and doing the right moves over a long period of time. There <em>is</em> a shorter way. Here it is:</p>
+        <p>Guest posts... all we need is guest posts for marketing. Here&apos;s the trick: </p>
         <p>We only need one guest post, that ranks well, for one keyword. If we get that, we get a steady stream of leads, and a steady stream of new housing customers.</p>
         <p>Signing off... April 16, 2023 10:51 Pacific</p>
         </main>
