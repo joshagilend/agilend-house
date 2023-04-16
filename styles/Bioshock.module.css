@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    font-family: Robotos, sans-serif;
+}
+
+.headerImage {
+    margin: auto;
+}
+
+.main a {
+    color: blue;
+    
+}
