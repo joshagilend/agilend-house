@@ -5,7 +5,7 @@ import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Home() {
+export default function Contact() {
   return (
     <>
       <Head>
@@ -29,8 +29,8 @@ export default function Home() {
           />
         </div>
         
-        <p>A team. </p>
-        <p>Interested? <a href="/contact">Contact us</a>.</p>
+        <p>Reach out at info@agilend.net</p>
+
       </main>
     </>
   )
