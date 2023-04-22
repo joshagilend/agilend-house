@@ -12,15 +12,15 @@ export default function DragonTraining() {
         <main className={styles.main}>
             <p>What does it mean to train your dragon?</p>
             <br />
-            <p>All this and more in the next episode of "How to Train Your Dragon."</p>
+            <p>All this and more in the next episode of &quot;How to Train Your Dragon.&quot;</p>
             <br />
             <ul>
-                <li>To train your dragon, you start with the stuff of legend: the Alchemist's stone.</li>
-                <li>You turn the Alchemist's stone into a lens of gold and silver.</li>
+                <li>To train your dragon, you start with the stuff of legend: the Alchemist&apos;s stone.</li>
+                <li>You turn the Alchemist&apos;s stone into a lens of gold and silver.</li>
                 <li>You fill it up with lead to finish the job.</li>
-                <li>Now you're left with an empty husk.</li>
+                <li>Now you&apos;re left with an empty husk.</li>
                 <li>So you grind it into pebbles and bones.</li>
-                <li>All that's left is flour, now... nothing left, here.</li>
+                <li>All that&apos;s left is flour, now... nothing left, here.</li>
             </ul>
             <br></br>
             <p>How do you really train your dragon?...</p>
